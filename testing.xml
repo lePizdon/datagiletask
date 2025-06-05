@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DatagileSuite">
+    <test name="Weather">
+        <classes>
+            <class name="com.datagile.test.weather.WeatherApiTest"/>
+        </classes>
+    </test>
+    <test name="Download">
+        <classes>
+            <class name="com.datagile.test.download.DownloadDocsTest"/>
+        </classes>
+    </test>
+</suite>

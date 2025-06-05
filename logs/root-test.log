@@ -1,0 +1,121 @@
+2025-06-05 23:00:52 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:00:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:00:56 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:00:56 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:00:56 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:00:57 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (58d18b0ca8f9227e85eadd1f3940711c)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:00:57 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:00:59 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (58d18b0ca8f9227e85eadd1f3940711c)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:01:00 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (58d18b0ca8f9227e85eadd1f3940711c)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:01:00 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:01:00 [main] ERROR c.d.test.download.DownloadDocsTest - matched handles after tab switch
+2025-06-05 23:01:00 [main] ERROR c.d.test.download.DownloadDocsTest - matched url after advance and tab switch
+2025-06-05 23:01:00 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (58d18b0ca8f9227e85eadd1f3940711c)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:01:05 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (58d18b0ca8f9227e85eadd1f3940711c)] -> xpath: //a[contains(@href, '/component/jdownloads/send/37-ankey-idm/219-ankey-idm-manual-user')]]
+2025-06-05 23:03:01 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:03:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:03:05 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:03:05 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:03:05 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:03:06 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (3eef0c73a57096484ce5957e4ff1e48e)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:03:06 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:03:07 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (3eef0c73a57096484ce5957e4ff1e48e)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:03:08 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (3eef0c73a57096484ce5957e4ff1e48e)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:03:09 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:03:09 [main] ERROR c.d.test.download.DownloadDocsTest - matched handles after tab switch
+2025-06-05 23:06:27 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:06:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:06:30 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:06:31 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:06:31 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:06:32 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (e10b43cc00933df42c12648685a4be06)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:06:32 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:06:33 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (e10b43cc00933df42c12648685a4be06)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:06:34 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (e10b43cc00933df42c12648685a4be06)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:06:34 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:06:34 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:06:34 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:06:34 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (e10b43cc00933df42c12648685a4be06)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:06:39 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (e10b43cc00933df42c12648685a4be06)] -> xpath: //a[contains(@href, '/component/jdownloads/send/37-ankey-idm/219-ankey-idm-manual-user')]]
+2025-06-05 23:10:53 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:10:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:10:56 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:10:57 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:10:57 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:10:58 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (d82acfc6c9fab771104b86529e977acd)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:10:58 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:10:59 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (d82acfc6c9fab771104b86529e977acd)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:11:00 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (d82acfc6c9fab771104b86529e977acd)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:11:00 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:11:00 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:11:00 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:11:00 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (d82acfc6c9fab771104b86529e977acd)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:13:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:13:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:13:42 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:13:42 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:13:42 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:13:43 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b7af1a6c477e559deb1e1655d356f626)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:13:43 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:13:44 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b7af1a6c477e559deb1e1655d356f626)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:13:46 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (b7af1a6c477e559deb1e1655d356f626)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:13:46 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:13:46 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:13:46 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:13:46 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b7af1a6c477e559deb1e1655d356f626)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:14:37 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:14:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:14:41 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:14:41 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:14:41 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:14:42 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (a87953aa913a37692734e1702a590bad)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:14:42 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:14:43 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (a87953aa913a37692734e1702a590bad)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:14:44 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (a87953aa913a37692734e1702a590bad)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:14:44 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:14:44 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:14:44 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:14:44 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (a87953aa913a37692734e1702a590bad)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:16:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:16:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:16:13 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:16:13 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:16:13 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:16:14 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (496c259bad8783120b7733a89624e4ac)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:16:14 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:16:15 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (496c259bad8783120b7733a89624e4ac)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:16:17 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (496c259bad8783120b7733a89624e4ac)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:16:17 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:16:17 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:16:17 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:16:17 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (496c259bad8783120b7733a89624e4ac)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-06-05 23:21:23 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml"
+2025-06-05 23:21:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\Aqua2024.3\temp-testng-customsuite.xml
+
+2025-06-05 23:21:27 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-06-05 23:21:27 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-06-05 23:21:27 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:21:29 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (8726b39347a905b82f1e3dc749dbeca0)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-06-05 23:21:29 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:21:30 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (8726b39347a905b82f1e3dc749dbeca0)] -> xpath: //a[text()='Продукты']]
+2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (8726b39347a905b82f1e3dc749dbeca0)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-06-05 23:21:32 [main] INFO  c.d.test.download.DownloadDocsTest - info loaded
+2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (8726b39347a905b82f1e3dc749dbeca0)] -> xpath: //a[contains(@id, 'tab-materialy')]]
