@@ -1,7 +1,7 @@
-t: 20.1
-feelslike t: 20.1
-humidity: 64.0
-pressure: 1009.0
-wind: 6.9
+t: 17.4
+feelslike t: 17.4
+humidity: 72.0
+pressure: 1008.0
+wind: 7.6
 condition: Partly cloudy
-date: 2025-06-05 17:12
+date: 2025-07-01 18:16

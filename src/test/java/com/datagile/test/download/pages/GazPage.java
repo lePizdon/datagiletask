@@ -6,30 +6,27 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-
+@Getter
 public class GazPage {
     public GazPage(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
 
-    @Getter
-    @FindBy(xpath="//a[text()='Продукты']")
+
+    @FindBy(xpath = "//a[@class='main-nav__item-link' and text()='Продукты' and @href='#div109']")
     WebElement products;
 
 
-    @Getter
     @FindBy(xpath = "//a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]")
     WebElement ankey;
 
-    @Getter
-    @FindBy (xpath = "//div[contains(@class, 'ankeyidm__blocks')]")
+    @FindBy(xpath = "//div[contains(@class, 'ankeyidm__blocks')]")
     WebElement info;
 
-    @Getter
     @FindBy(xpath = "//a[contains(@id, 'tab-materialy')]")
     WebElement materials;
 
-    @Getter
     @FindBy(xpath = "//a[contains(@href, '/component/jdownloads/send/37-ankey-idm/219-ankey-idm-manual-user')]")
     WebElement guide;
+
 }

@@ -119,3 +119,140 @@
 2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
 2025-06-05 23:21:32 [main] INFO  c.d.test.download.DownloadDocsTest - info loaded
 2025-06-05 23:21:32 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (8726b39347a905b82f1e3dc749dbeca0)] -> xpath: //a[contains(@id, 'tab-materialy')]]
+2025-07-01 14:54:39 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 14:54:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 14:54:43 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 14:54:43 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 14:54:43 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 14:54:49 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]'
+2025-07-01 14:56:53 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 14:56:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 14:57:00 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 14:57:00 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 14:57:00 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 14:58:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 14:58:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 14:58:58 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 14:58:59 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 14:58:59 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 14:59:06 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]'
+2025-07-01 14:59:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 14:59:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:00:00 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:00:00 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:00:01 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:00:12 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]'
+2025-07-01 15:00:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:00:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:00:22 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:00:23 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:00:23 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:01:20 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:01:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:01:24 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:01:25 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:01:25 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:02:04 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:02:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:02:07 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:02:08 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:02:08 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:02:09 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (8f75f9f0e703e744199183bbe8a14e88)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-07-01 15:02:09 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:02:17 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Продукты']'
+2025-07-01 15:12:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:12:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:12:41 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:12:42 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:12:42 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:12:43 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (c3ef6637f3c3d20137548db401af8d5c)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-07-01 15:12:43 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:12:49 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Продукты']'
+2025-07-01 15:20:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:20:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:20:15 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 15:20:15 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 15:20:15 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:20:16 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (a07ed15d142b8051ac783c99846efb32)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-07-01 15:20:16 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 15:20:23 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='main-nav__item-link' and text()='Продукты']'
+2025-07-01 15:24:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:24:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:26:40 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:26:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:30:11 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:30:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 15:34:01 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 15:34:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:03:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 18:03:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:04:12 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 18:04:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:04:17 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 18:04:18 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 18:04:18 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:04:24 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]'
+2025-07-01 18:04:27 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 18:04:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:04:32 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 18:04:32 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 18:04:32 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:04:40 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]'
+2025-07-01 18:05:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 18:05:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:05:08 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 18:05:09 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 18:05:09 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:05:10 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (d5daf928426c0ec9cdbe4c2823308057)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-07-01 18:05:10 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:05:16 [main] ERROR c.d.test.download.DownloadDocsTest - timeout while explicit wait of clickable element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='main-nav__item-link' and text()='ÐÑÐ¾Ð´ÑÐºÑÑ' and @href='#div109']'
+2025-07-01 18:06:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml"
+2025-07-01 18:06:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bests\AppData\Local\JetBrains\IntelliJIdea2025.1\temp-testng-customsuite.xml
+
+2025-07-01 18:06:52 [main] DEBUG c.d.test.download.DownloadDocsTest - frame found
+2025-07-01 18:06:52 [main] DEBUG c.d.test.download.DownloadDocsTest - form submitted
+2025-07-01 18:06:52 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:06:53 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b0f74bdb444cde53469a1b46630ffabe)] -> xpath: //a[contains(@href, 'https://www.gaz-is.ru/')]]
+2025-07-01 18:06:53 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:06:54 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b0f74bdb444cde53469a1b46630ffabe)] -> xpath: //a[@class='main-nav__item-link' and text()='Продукты' and @href='#div109']]
+2025-07-01 18:06:58 [main] DEBUG c.d.test.download.DownloadDocsTest - hard js click [[ChromeDriver: chrome on windows (b0f74bdb444cde53469a1b46630ffabe)] -> xpath: //a[contains(@href, '/produkty/upravlenie-ib/ankey-idm')]]
+2025-07-01 18:06:58 [main] DEBUG c.d.test.download.DownloadDocsTest - attempt to switch tabs
+2025-07-01 18:06:58 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-07-01 18:06:58 [main] DEBUG c.d.test.download.DownloadDocsTest - all is well
+2025-07-01 18:06:58 [main] INFO  c.d.test.download.DownloadDocsTest - info loaded
+2025-07-01 18:06:59 [main] DEBUG c.d.test.download.DownloadDocsTest - standard click [[ChromeDriver: chrome on windows (b0f74bdb444cde53469a1b46630ffabe)] -> xpath: //a[contains(@id, 'tab-materialy')]]

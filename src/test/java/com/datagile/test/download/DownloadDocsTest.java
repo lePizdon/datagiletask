@@ -63,7 +63,6 @@ public class DownloadDocsTest {
         driver.switchTo().defaultContent();
         switchToTheNext(driver, true);
 
-
         advance(wait, browserPage.getSearchResult());
 
         switchToTheNext(driver, true);
@@ -100,6 +99,7 @@ public class DownloadDocsTest {
 
     public static void clickableWait(WebDriverWait wait, WebElement target) {
         try {
+            wait.until(ExpectedConditions.visibilityOf(target));
             wait.until(ExpectedConditions.elementToBeClickable(target));
         } catch (TimeoutException e) {
             logger.error("timeout while explicit wait of clickable element {}", target.toString());
